@@ -1,5 +1,4 @@
-# CODETECH-TASK-2
-Predictive modeling with linear regression 
+# Predictive modeling with linear regression 
 Predictive modeling is a technique used in data science to predict future outcomes based on historical data. It involves the following key steps:
 
 1. **Data Collection:** Gathering relevant data from various sources.
